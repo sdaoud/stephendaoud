@@ -19,6 +19,7 @@ const IconText: React.FC<Props> = ({ icon, children }) => {
 
     svg: {
       height: "xs",
+      width: "auto",
       fill: "text",
     },
   };
