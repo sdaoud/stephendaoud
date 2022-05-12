@@ -51,14 +51,14 @@ const IndexPage: React.FC = () => {
           <Text as="p">
             I specialise in robust Python systems and performant Javascript
             applications and have had the privilege of working with some
-            fantastic companies including
-            <IconText icon={<Google />}>Google</IconText>,{" "}
-            <IconText icon={<CabinetOffice />}>Cabinet Office</IconText>,{" "}
-            <IconText icon={<NHS />}>NHS England</IconText>,{" "}
-            <IconText icon={<EcotricitySimple />}>Ecotricity</IconText>,{" "}
-            <IconText icon={<Adidas />}>Adidas</IconText>,{" "}
+            fantastic companies including:{" "}
+            <IconText icon={<Google />}>Google,</IconText>{" "}
+            <IconText icon={<CabinetOffice />}>The Cabinet Office,</IconText>{" "}
+            <IconText icon={<NHS />}>NHS England,</IconText>{" "}
+            <IconText icon={<EcotricitySimple />}>Ecotricity,</IconText>{" "}
+            <IconText icon={<Adidas />}>Adidas,</IconText>{" "}
             <IconText icon={<Palantir />}>Palantir</IconText> and{" "}
-            <IconText icon={<Accel />}>Accel</IconText>.
+            <IconText icon={<Accel />}>Accel.</IconText>
           </Text>
           <Text as="p">
             After hours, I have various side projects that mainly focus on med
